@@ -3,8 +3,8 @@ Useful utilities and source code support Android projects
 
 
 <b>Content</b>
-1. [Wireless ADB](https://github.com/TinySonhh/android#1-wireless-adb)
-2. [English Words](https://github.com/TinySonhh/android#2-english-words)
+1. [Wireless ADB](https://github.com/hssoftvn/android_public#1-wireless-adb)
+2. [English Words](https://github.com/hssoftvn/android_public#2-english-words)
 
 <br>
 
@@ -27,7 +27,7 @@ RFXXXXXXX     device
 <br>
 
 **Action**
-* Download this tool - [adbwifi.exe](https://github.com/TinySonhh/android/blob/main/tools/wifiadb.exe) into your local storage.
+* Download this tool - [adbwifi.exe](https://github.com/hssoftvn/android_public/blob/main/tools/wifiadb.exe) into your local storage.
 * To be able run the file from anywhere, put this file in `%windir%` directory
 * Run dirrectly the file, or open CMD, and type `adbwifi` then ENTER
 * Wait for a sec, to have the expected result:
@@ -84,8 +84,8 @@ Good luck!
 
 ## 2. English Words ##
 All possible English words that can help you in developing applications or games about word in English language.
-* [words.txt](https://github.com/TinySonhh/android/blob/main/languages/english/words.txt)
-* [words_more.txt ](https://github.com/TinySonhh/android/blob/main/languages/english/words_more.txt)
+* [words.txt](https://github.com/hssoftvn/android_public/blob/main/languages/english/words.txt)
+* [words_more.txt ](https://github.com/hssoftvn/android_public/blob/main/languages/english/words_more.txt)
 
 
 THANK YOU.
